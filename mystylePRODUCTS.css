@@ -1,0 +1,638 @@
+		body{
+				background-image: url("https://us.123rf.com/450wm/annaleni/annaleni1608/annaleni160800043/64883698-red-grill-menu-line-patroon-van-de-tegel-vector-illustratie-van-outline-achtergrond-van-de-tegel-bar.jpg?ver=6");
+			}
+			
+			.LOGO{
+				width:10%;
+				
+			}
+			.navbar{
+				border-bottom: 5px solid #fdb813;
+			}
+			.nav-link {
+				font-family: 'Varela Round', sans-serif;
+				
+			}
+			
+			.nav-link:hover{
+				background-color:#fdb813;
+			}
+	
+			.container1{
+				background-color:#df0c1d;
+				width:80%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+
+			}
+	
+			.container1 h1{
+				margin-left: 44%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container2{
+				background-color:#47cfff;
+				width:70%;
+				height:5%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container2 h3{
+				margin-left: 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container3{
+				background-color:#ffdf09;
+				width:70%;
+				height:5%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container3 h3{
+				margin-left: 45%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container4{
+				background-color:#eb8517;
+				width:70%;
+				height:5%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container4 h3{
+				margin-left: 46%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container5{
+				background-color:#dd012d;
+				width:70%;
+				height:5%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container5 h3{
+				margin-left: 45%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			.Boxes{
+				width:100%;
+				height:30%;
+			
+			}
+		
+			
+			.FirstBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 15%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.SecondBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 6%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.ThirdBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 6%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.FourthBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 15% 0 0;
+				float:right;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			
+			.FirstBox img, .SecondBox img, .ThirdBox img, .FourthBox img{
+				width:100%;
+				height:100%;
+				border-radius: 25px;
+			}
+			
+			.Footer{
+				width:100%;
+				height:10%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:18px;	
+				letter-spacing:1px;
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 8%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:39%;
+				
+			}
+			
+			.FirstBox img:hover, .SecondBox img:hover, .ThirdBox img:hover, .FourthBox img:hover{
+				background-color:#fdb813;
+				cursor: pointer;
+			}
+			
+
+
+
+		@media screen and (max-width: 480px){
+			
+			.LOGO{
+				width:50%;
+				
+			}
+
+			.container1{
+				background-color:#df0c1d;
+				width:90%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+
+			}
+	
+			.container1 h1{
+
+				margin-left: 30%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container2{
+				background-color:#47cfff;
+				width:70%;
+				height:9%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container2 h3{
+				font-size: 20px;
+				margin: 5% 0 0 18%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container3{
+				background-color:#ffdf09;
+				width:70%;
+				height:9%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container3 h3{
+				font-size: 30px;
+				margin: 5% 0 0 25%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container4{
+				background-color:#eb8517;
+				width:70%;
+				height:9%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container4 h3{
+				margin: 5% 0 0 37%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container5{
+				background-color:#dd012d;
+				width:70%;
+				height:9%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container5 h3{
+				margin: 5% 0 0 35%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			.Boxes{
+				width:130%;
+				height:20%;
+			
+			}
+		
+			
+			.FirstBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 10%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.SecondBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 3%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.ThirdBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 3%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.FourthBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 29% 0 0;
+				float:right;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			
+			.FirstBox img, .SecondBox img, .ThirdBox img, .FourthBox img{
+				width:100%;
+				height:100%;
+				border-radius: 25px;
+			}
+			
+			.Footer{
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:6px;	
+				letter-spacing:1px;
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 8%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				font-size: 5px;
+				color:white;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:39%;
+				
+			}
+
+		}
+
+
+
+		@media screen and (max-width: 768px) and (min-width: 481px)  { 
+				.LOGO{
+				width:25%;
+				
+			}
+	
+			.container1{
+				background-color:#df0c1d;
+				width:80%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+
+			}
+	
+			.container1 h1{
+				margin-left: 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container2{
+				background-color:#47cfff;
+				width:70%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container2 h3{
+				margin: 3% 0 0 30%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container3{
+				background-color:#ffdf09;
+				width:70%;
+				height:10%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container3 h3{
+				margin: 3% 0 0 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container4{
+				background-color:#eb8517;
+				width:70%;
+				height:10%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container4 h3{
+				margin: 3% 0 0 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container5{
+				background-color:#dd012d;
+				width:70%;
+				height:10%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container5 h3{
+				margin: 3% 0 0 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			.Boxes{
+				width:100%;
+				height:30%;
+			
+			}
+		
+			
+			.FirstBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 15%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.SecondBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 6%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.ThirdBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 0 0 6%;
+				float:left;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			.FourthBox{
+				background-color:#df0c1d;
+				width:13%;
+				height:80%;
+				margin:1% 15% 0 0;
+				float:right;
+				border-radius: 35px;
+				border: 4px solid #fdb813;
+			}
+			
+			.FirstBox img, .SecondBox img, .ThirdBox img, .FourthBox img{
+				width:100%;
+				height:100%;
+				border-radius: 25px;
+			}
+			
+			.Footer{
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:10px;	
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 5%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-size: 10px;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:35%;
+				
+			}
+			
+			.FirstBox img:hover, .SecondBox img:hover, .ThirdBox img:hover, .FourthBox img:hover{
+				background-color:#fdb813;
+				cursor: pointer;
+			}
+		}
+
+
+		@media screen and (max-width: 1279px) and (min-width: 769px)  { 
+			.container1{
+				background-color:#df0c1d;
+				width:80%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+
+			}
+	
+			.container1 h1{
+				margin-left: 44%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container2{
+				background-color:#47cfff;
+				width:70%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container2 h3{
+				margin-left: 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container3{
+				background-color:#ffdf09;
+				width:70%;
+				height:10%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container3 h3{
+				margin-left: 45%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container4{
+				background-color:#eb8517;
+				width:70%;
+				height:10%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container4 h3{
+				margin-left: 46%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+			
+			.container5{
+				background-color:#dd012d;
+				width:70%;
+				height:10%;
+				margin:1% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+			
+			.container5 h3{
+				margin-left: 45%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+
+			.Footer{
+				width:100%;
+				height:10%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:10px;	
+				letter-spacing:1px;
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 8%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-size:9px;	
+				font-family: 'Varela Round', sans-serif;
+				margin-left:39%;
+				
+			}
+		}
+			

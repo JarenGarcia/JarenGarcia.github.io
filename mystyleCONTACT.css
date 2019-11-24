@@ -1,0 +1,337 @@
+body{
+				background-image: url("https://us.123rf.com/450wm/annaleni/annaleni1608/annaleni160800043/64883698-red-grill-menu-line-patroon-van-de-tegel-vector-illustratie-van-outline-achtergrond-van-de-tegel-bar.jpg?ver=6");
+			}
+
+			.LOGO{
+				width:10%;	
+			}
+
+			.navbar{
+				border-bottom: 5px solid #fdb813;
+			}
+
+			.nav-link {
+				font-family: 'Varela Round', sans-serif;
+					
+			}
+			
+			.nav-link:hover{
+				background-color:#fdb813;
+			}
+
+			.container1{
+				background-color:#df0c1d;
+				width:60%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container1 h1{
+				margin-left: 43%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+
+			.container2{
+				background-color:#df0c1d;
+				width:60%;
+				height:35%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container2 h1{
+				margin: 2% 0 0 38%;
+				font-family: 'Varela Round', sans-serif;
+				color: #fdb813;
+
+			}
+
+			.container2 p{
+				margin: 1% 2% 0 4%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+				text-align: center;
+			}
+
+			.Footer{
+				margin: 15% 0 0 0;
+				width:100%;
+				height:10%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:18px;	
+				letter-spacing:1px;
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 8%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:39%;
+				
+			}
+
+
+			@media screen and (max-width: 480px){
+			.LOGO{
+				width:50%;	
+			}
+
+			.container1{
+				background-color:#df0c1d;
+				width:80%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container1 h1{
+				margin-left: 20%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+
+			.container2{
+				background-color:#df0c1d;
+				width:80%;
+				height:55%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container2 h1{
+				font-size: 30px;
+				margin: 2% 0 0 10%;
+				font-family: 'Varela Round', sans-serif;
+				color: #fdb813;
+
+			}
+
+			.container2 p{
+				font-size: 14px;
+				margin: 1% 2% 0 4%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+				text-align: center;
+			}
+
+			.Footer{
+				margin: 15% 0 0 0;
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:6px;	
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 0;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-size: 8px;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:20%;
+				
+			}
+				
+		}
+
+		@media screen and (max-width: 768px) and (min-width: 481px)  { 
+				.LOGO{
+				width:25%;	
+			}
+
+			.container1{
+				background-color:#df0c1d;
+				width:80%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container1 h1{
+				margin-left: 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+
+			.container2{
+				background-color:#df0c1d;
+				width:80%;
+				height:55%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container2 h1{
+				font-size: 30px;
+				margin: 2% 0 0 34%;
+				font-family: 'Varela Round', sans-serif;
+				color: #fdb813;
+
+			}
+
+			.container2 p{
+				font-size: 14px;
+				margin: 1% 2% 0 4%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+				text-align: center;
+			}
+
+			.Footer{
+				margin: 15% 0 0 0;
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:15px;	
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 3%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-size: 15px;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:25%;
+				
+			}
+				
+		
+		}
+			
+
+
+			@media screen and (max-width: 1279px) and (min-width: 769px)  { 
+			.LOGO{
+				width:25%;	
+			}
+
+			.container1{
+				background-color:#df0c1d;
+				width:80%;
+				height:10%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container1 h1{
+				margin-left: 40%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+			}
+
+			.container2{
+				background-color:#df0c1d;
+				width:80%;
+				height:55%;
+				margin:2% auto;
+				border: 3px solid #fdb813;
+				border-radius: 25px;
+			}
+
+			.container2 h1{
+				font-size: 30px;
+				margin: 2% 0 0 38%;
+				font-family: 'Varela Round', sans-serif;
+				color: #fdb813;
+
+			}
+
+			.container2 p{
+				font-size: 14px;
+				margin: 1% 2% 0 4%;
+				font-family: 'Varela Round', sans-serif;
+				color: white;
+				text-align: center;
+			}
+
+			.Footer{
+				margin: 15% 0 0 0;
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+			}
+			
+			.Footer li{
+				list-style-type: none;
+				display: inline-block;
+				font-size:15px;	
+				font-family: 'Varela Round', sans-serif;
+				font-weight:bold;
+				color:white;
+				text-decoration: none;
+				margin:0.5% 0 0 5.5%;
+			}
+			
+			.Footer li a{
+				color:white;
+					
+			}
+			
+			.Footer p{
+				color:white;
+				font-size: 15px;
+				font-family: 'Varela Round', sans-serif;
+				margin-left:30%;
+				
+			}
+				
+		
+		}
+			

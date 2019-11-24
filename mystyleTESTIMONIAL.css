@@ -1,0 +1,357 @@
+body{
+				background-image: url("https://us.123rf.com/450wm/annaleni/annaleni1608/annaleni160800043/64883698-red-grill-menu-line-patroon-van-de-tegel-vector-illustratie-van-outline-achtergrond-van-de-tegel-bar.jpg?ver=6");
+			}
+
+			.LOGO{
+				width:10%;	
+			}
+
+			.navbar{
+				border-bottom: 5px solid #fdb813;
+			}
+
+			.nav-link {
+				font-family: 'Varela Round', sans-serif;
+					
+			}
+			
+			.nav-link:hover{
+				background-color:#fdb813;
+			}
+
+			.container1{
+			background-color:#df0c1d;
+			width:90%;
+			height:10%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+		.container1 h1{
+			margin-left: 40%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+		
+		.container2{
+			background-color:#df0c1d;
+			width:90%;
+			height:100%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+
+		.container2 h5{
+			margin: 2% 0 0 4%;
+			font-family: 'Varela Round', sans-serif;
+			color: #fdb813;
+		}
+
+		.container2 p{
+			margin: 1% 2% 0 2%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+
+		.container2 img{
+			width: 4%;
+			height: 6%;
+			border-radius: 50%;
+			margin: 1% 0 0 5%;
+		}
+		
+		
+		.Footer{
+				width:100%;
+				height:10%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+		}
+			
+		.Footer li{
+			list-style-type: none;
+			display: inline-block;
+			font-size:18px;	
+			letter-spacing:1px;
+			font-family: 'Varela Round', sans-serif;
+			font-weight:bold;
+			color:white;
+			text-decoration: none;
+			margin:0.5% 0 0 8%;
+		}
+			
+		.Footer li a{
+			color:white;
+				
+		}
+		
+		.Footer p{
+			color:white;
+			font-family: 'Varela Round', sans-serif;
+			margin-left:39%;
+				
+		}
+
+
+		@media screen and (max-width: 480px){
+		.LOGO{
+				width:50%;	
+			}
+
+		.container1{
+			background-color:#df0c1d;
+			width:90%;
+			height:20%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+		.container1 h1{
+			margin:5% 0 0 10%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+		
+		.container2{
+			background-color:#df0c1d;
+			width:90%;
+			height:150%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+
+		.container2 h5{
+			font-size: 10px;
+			margin: 2% 0 0 4%;
+			font-family: 'Varela Round', sans-serif;
+			color: #fdb813;
+		}
+
+		.container2 p{
+			font-size: 10px;
+			margin: 1% 2% 0 2%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+
+		.container2 img{
+			width: 10%;
+			height: 5%;
+			border-radius: 50%;
+			margin: 2% 0 0 5%;
+		}
+		
+		
+		.Footer{
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+		}
+			
+		.Footer li{
+			list-style-type: none;
+			display: inline-block;
+			font-size:6px;	
+			font-family: 'Varela Round', sans-serif;
+			font-weight:bold;
+			color:white;
+			text-decoration: none;
+			margin:0.5%  0 0;
+		}
+			
+		.Footer li a{
+			color:white;
+				
+		}
+		
+		.Footer p{
+			color:white;
+			font-size: 9px;
+			font-family: 'Varela Round', sans-serif;
+			margin-left:15%;
+				
+		}
+
+				
+	}
+
+
+	@media screen and (max-width: 768px) and (min-width: 481px)  { 
+				.LOGO{
+				width:25%;	
+			}
+
+			.container1{
+			background-color:#df0c1d;
+			width:90%;
+			height:20%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+		.container1 h1{
+			margin:3% 0 0 35%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+		
+		.container2{
+			background-color:#df0c1d;
+			width:90%;
+			height:150%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+
+		.container2 h5{
+			font-size: 25px;
+			margin: 2% 0 0 4%;
+			font-family: 'Varela Round', sans-serif;
+			color: #fdb813;
+		}
+
+		.container2 p{
+			font-size: 13px;
+			margin: 1% 2% 0 2%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+
+		.container2 img{
+			width: 6%;
+			height: 4%;
+			border-radius: 50%;
+			margin: 1% 0 0 5%;
+		}
+		
+		
+		.Footer{
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+		}
+			
+		.Footer li{
+			list-style-type: none;
+			display: inline-block;
+			font-size:19px;	
+			font-family: 'Varela Round', sans-serif;
+			font-weight:bold;
+			color:white;
+			text-decoration: none;
+			margin:0.5% 0 0 0;
+		}
+			
+		.Footer li a{
+			color:white;
+				
+		}
+		
+		.Footer p{
+			color:white;
+			font-size: 15px;
+			font-family: 'Varela Round', sans-serif;
+			margin-left:25%;
+				
+		}
+			}
+
+
+			@media screen and (max-width: 1279px) and (min-width: 769px)  { 
+			.LOGO{
+				width:12%;	
+			}
+
+
+			.container1{
+			background-color:#df0c1d;
+			width:90%;
+			height:10%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+		.container1 h1{
+			margin-left: 40%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+		
+		.container2{
+			background-color:#df0c1d;
+			width:90%;
+			height:150%;
+			margin:2% auto;
+			border: 3px solid #fdb813;
+			border-radius: 25px;
+
+		}
+
+		.container2 h5{
+			font-size: 20px;
+			margin: 2% 0 0 4%;
+			font-family: 'Varela Round', sans-serif;
+			color: #fdb813;
+		}
+
+		.container2 p{
+			font-size: 13px;
+			margin: 1% 2% 0 2%;
+			font-family: 'Varela Round', sans-serif;
+			color: white;
+		}
+
+		.container2 img{
+			width: 6%;
+			height: 4%;
+			border-radius: 50%;
+			margin: 1% 0 0 5%;
+		}
+		
+		
+		.Footer{
+				width:100%;
+				height:20%;
+				background-color:#df0c1d;
+				border-top: 5px solid #fdb813;
+				
+		}
+			
+		.Footer li{
+			list-style-type: none;
+			display: inline-block;
+			font-size:19px;	
+			font-family: 'Varela Round', sans-serif;
+			font-weight:bold;
+			color:white;
+			text-decoration: none;
+			margin:1% 0 0 4%;
+		}
+			
+		.Footer li a{
+			color:white;
+				
+		}
+		
+		.Footer p{
+			color:white;
+			font-family: 'Varela Round', sans-serif;
+			margin-left:29%;
+				
+		}
+			}
